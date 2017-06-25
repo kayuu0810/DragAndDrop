@@ -1,0 +1,1 @@
+Drag and drop test based on dragula
